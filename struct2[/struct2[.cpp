@@ -20,6 +20,8 @@ int main() {
 	cout << "Alamat Mahasiswa :";
 	cout << "\t Nama Desa : ";
 	cin >> mhs.alamat.Desa;
+	cout << "\t Nama Kota : ";
+	cin >> mhs.alamat.Kota;
 	cout << "Umur Mahasiswa :";
 	cin >> mhs.umur;
 
