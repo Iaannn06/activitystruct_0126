@@ -28,6 +28,7 @@ int main() {
 	cout << endl;
 	cout << "\n Nim : " << mhs.nim;
 	cout << "\n Nama : " << mhs.nama;
-	cout << "\n Alamat : " << mhs.alamat;
+	cout << "\n Alamat : ";
+	cout << "\n Desa :" << mhs.alamat.Desa;
 	cout << "\n Umur : " << mhs.umur;
 }
